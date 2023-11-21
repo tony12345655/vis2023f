@@ -1,0 +1,14 @@
+{
+  "name": "20fcc18c696e3a92",
+  "main": "20fcc18c696e3a92@47.js",
+  "version": "47.0.0",
+  "homepage": "https://observablehq.com/d/20fcc18c696e3a92",
+  "author": {
+    "name": "顏于傑's Workspace",
+    "url": "https://observablehq.com/@yan-yu-jie-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
