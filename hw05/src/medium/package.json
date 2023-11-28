@@ -1,0 +1,14 @@
+{
+  "name": "89bc0812ddb35910",
+  "main": "89bc0812ddb35910@30.js",
+  "version": "30.0.0",
+  "homepage": "https://observablehq.com/d/89bc0812ddb35910",
+  "author": {
+    "name": "顏于傑's Workspace",
+    "url": "https://observablehq.com/@yan-yu-jie-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
