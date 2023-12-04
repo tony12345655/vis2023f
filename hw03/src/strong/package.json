@@ -1,0 +1,14 @@
+{
+  "name": "5fc5ee0e50279895",
+  "main": "5fc5ee0e50279895@55.js",
+  "version": "55.0.0",
+  "homepage": "https://observablehq.com/d/5fc5ee0e50279895",
+  "author": {
+    "name": "顏于傑's Workspace",
+    "url": "https://observablehq.com/@yan-yu-jie-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
